@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="fixed m-4 top-0 right-0 left-0 shadow-lg z-50 bg-white">
       <div className="container px-4 flex justify-between items-center h-16">
-        <h3 className="text-4xl font-bold italic text-orange-800">
+        <h3 className="text-4xl font-bold italic  text-gray-800">
           Speed View
         </h3>
         <div className="hidden md:flex space-x-4 text-sm font-bold items-center">
